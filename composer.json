@@ -47,7 +47,7 @@
     
     "require": {
         "php": "^7.4.0",
-        "felixkiss/uniquewith-validator": "@dev",
+        "felixkiss/uniquewith-validator": "dev-master",
         "spatie/laravel-schemaless-attributes": "^1.7.0",
         "watson/validating": "^6.0.0"
     },
