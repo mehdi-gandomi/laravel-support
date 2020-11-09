@@ -40,7 +40,7 @@
     ],
     "repositories": {
         "validator":{
-            "type": "git",
+            "type": "vcs",
             "url":"https://github.com/mehdi-gandomi/uniquewith-validator.git"
         }
     },
