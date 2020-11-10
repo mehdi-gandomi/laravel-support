@@ -40,14 +40,14 @@
     ],
     "repositories": {
         "validator":{
-            "type": "vcs",
-            "url":"https://github.com/mehdi-gandomi/uniquewith-validator.git"
+            "type": "git",
+            "url":"https://github.com/mehdi-gandomi/uniquewithvalidator.git"
         }
     },
     
     "require": {
         "php": "^7.4.0",
-        "felixkiss/uniquewith-validator": "dev-master",
+        "felixkiss/uniquewith-validator": "dev-main",
         "spatie/laravel-schemaless-attributes": "^1.7.0",
         "watson/validating": "^6.0.0"
     },
