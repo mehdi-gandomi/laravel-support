@@ -38,10 +38,16 @@
             "homepage": "https://github.com/rinvex/laravel-support/contributors"
         }
     ],
-    
+     "repositories": {
+        "validator":{
+            "type": "git",
+            "url":"https://github.com/mehdi-gandomi/uniquewithvalidator.git"
+        }
+    },
     "require": {
         "php": "^7.4.0",
         "spatie/laravel-schemaless-attributes": "^1.7.0",
+        "felixkiss/uniquewith-validator": "dev-laravel-8",
         "watson/validating": "^6.0.0"
     },
     "require-dev": {
